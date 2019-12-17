@@ -1,5 +1,13 @@
-body {
-  background-color: rgba(55, 73, 26, 0.671);
+#para {
+  font-size: xx-large;
   text-align: center;
 }
 
+#henlowBay {
+  text-align: center;
+  margin-left: 27em;
+}
+
+#aldgateRoad {
+  text-align: center;
+}
