@@ -11,7 +11,7 @@ Click on the button of the given bus route. It will dispaly the information abou
 
 It fetches the data using API.
 
-![srceen shot](https://raw.githubusercontent.com/amitverma07/BUS-FINDER/master/readmess.PNG)
+![srceen shot](https://raw.githubusercontent.com/amitverma07/BUS-FINDER/master/readm.PNG)
 
 ## Technology Used
 - JavaScript
